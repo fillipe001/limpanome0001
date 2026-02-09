@@ -14,8 +14,8 @@ export const HowItWorks = () => {
     },
     {
       icon: TrendingUp,
-      title: "Nome limpo e score alto",
-      description: "Seu nome é limpo e seu score aumenta naturalmente, abrindo portas para crédito."
+      title: "Nome limpo",
+      description: "Seu nome é limpo abrindo portas para crédito."
     }
   ];
 
