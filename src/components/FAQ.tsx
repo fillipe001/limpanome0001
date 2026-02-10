@@ -20,10 +20,6 @@ export const FAQ = () => {
       answer: "A partir de R$497 à vista ou em 12x no cartão (valor pode variar conforme o tamanho da dívida)."
     },
     {
-      question: "Meu score realmente vai aumentar?",
-      answer: "Não garantimos aumento de score. Porém, em 98% dos casos dos nossos clientes o score subiu entre 80 e 200 pontos em cerca de 60 dias após a limpeza do nome."
-    },
-    {
       question: "E se eu já fui enganado antes?",
       answer: "Entendemos sua preocupação. Diferente de outras empresas, temos CNPJ registrado, equipe identificada e parceiros jurídicos comprovados. Você pode verificar tudo antes de contratar."
     },
